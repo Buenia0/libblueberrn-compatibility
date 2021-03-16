@@ -33,7 +33,7 @@ Game loads, but is unable to progress past the menus/title screen/ingame.
 
 Game crashes when booting/suffers from infinite black screen.
 
-
+-------------------------------------------------------------------
 
 ### Machines:
 
@@ -52,17 +52,17 @@ Machine is fully functional (80-95% playability) with only minor errors.
 #### Runs:
 ![alt text](http://compat.cemu.info/img/smiley-3.png "Runs")
 
-Machine runs majority of availible games (55-80% playability), but major glitches/issues prevent many games from properly running.
+Machine runs majority of available games (55-80% playability), but major glitches/issues prevent many games from properly running.
 
 
 #### Loads:
 ![alt text](http://compat.cemu.info/img/smiley-2.png "Loads")
 
-Machine runs some of availible games (30-55% playability), but majority of availible games unable to progress past the menus/title screen/ingame.
+Machine runs some of available games (30-55% playability), but majority of available games unable to progress past the menus/title screen/ingame.
 
 #### Unplayable:
 ![alt text](http://compat.cemu.info/img/smiley-1.png "Unplayable")
 
-Machine does not work at all (below 30% playability) and vast majority of availible games are unplayable.
+Machine does not work at all (below 30% playability) and vast majority of available games are unplayable.
 
 
